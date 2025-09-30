@@ -1,4 +1,6 @@
+<div align="center">
 <img src="./srcs/AlfombruhText.gif"/>
+</div>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/jokinfernandez/">
