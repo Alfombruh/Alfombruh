@@ -1,6 +1,6 @@
 <img src="./srcs/AlfombruhText.gif"/>
 
-<div display="flex" justify-content="center" align-items="center">
+<p align="center">
 <a href="https://www.linkedin.com/in/jokinfernandez/">
   <img height="20" src="./srcs/linkdn.png"/>
 </a>
@@ -10,7 +10,7 @@
 <a href="https://bsky.app/profile/alfombruh.bsky.social">
   <img height="20" border-radius="25px" src="./srcs/bsky.png"/>
 </a>
-</div>
+</p>
 
 ### Hi there 👋
 * 👂 My name is Jokin
