@@ -20,7 +20,7 @@
 * ❤️ I love cats
 * ⚡ Fun fact: pillbugs can extract heavy metal from soil
 
-<div display="flex" justify-content="center" align-items="center">
+<div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alfombruh&layout=compact&size_weight=0.5&count_weight=0.5&hide=Objective-C,TeX,Perl,Roff,M4,CMake,Swift,Kotlin&langs_count=12) 
 
